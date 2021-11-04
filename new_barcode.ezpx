@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PrintJob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QLabelSDKVersion>1.5.7681.30635</QLabelSDKVersion>
+  <GoLabelZoomFactor>0.5</GoLabelZoomFactor>
+  <Label>
+    <SerialFormat>
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+    </SerialFormat>
+    <SerialLeadingCode>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </SerialLeadingCode>
+    <SerialCustomSequence>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </SerialCustomSequence>
+    <VariableFormat>
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+    </VariableFormat>
+    <qlabel>
+      <GraphicShape xsi:type="Text" Style="Cross" IsPrint="true" PageAlignment="None" Locked="false" bStroke="true" bFill="true" Direction="Angle0" X="236" Y="41" Alignment="Left" AlignPointX="236" AlignPointY="41" FontScript="Default" FontCmd="Microsoft Sans Serif,18&#xD;&#xA;" FontType="BuiltIn_Bitmap_Font" TextSpace="0" Encoding="Default" FontId="Default" FontHeight="1" FontWidth="1" IsInverse="false" IsUTF8="true" IsCheckDigit="false" UsePrinterClock="true">
+        <qHitOnCircumferance>false</qHitOnCircumferance>
+        <Selected>true</Selected>
+        <iBackground_color>4294967295</iBackground_color>
+        <Id>2</Id>
+        <ItemLabel>Text_225284</ItemLabel>
+        <ObjectDrawMode>FW</ObjectDrawMode>
+        <Name>A</Name>
+        <ReplaceInfoItems />
+        <FormatType>None</FormatType>
+        <P1 />
+        <P2 />
+        <P3 />
+        <P4 />
+        <DataField>None</DataField>
+        <Prompt>None</Prompt>
+        <BoundRectWidth>126.569824</BoundRectWidth>
+        <DispData>ExpDate</DispData>
+        <bRemovePreZeroAndEmpty>false</bRemovePreZeroAndEmpty>
+        <Data>ExpDate</Data>
+        <BoundRectHeight>36.8671875</BoundRectHeight>
+        <BoundRect>
+          <Location>
+            <X>236</X>
+            <Y>41</Y>
+          </Location>
+          <Size>
+            <Width>126.569824</Width>
+            <Height>36.8671875</Height>
+          </Size>
+          <X>236</X>
+          <Y>41</Y>
+          <Width>126.569824</Width>
+          <Height>36.8671875</Height>
+        </BoundRect>
+        <BTrueType>true</BTrueType>
+      </GraphicShape>
+      <GraphicShape xsi:type="Text" Style="Cross" IsPrint="true" PageAlignment="None" Locked="false" bStroke="true" bFill="true" Direction="Angle0" X="237" Y="6" Alignment="Left" AlignPointX="237" AlignPointY="6" FontScript="Default" FontCmd="Microsoft Sans Serif,18&#xD;&#xA;" FontType="BuiltIn_Bitmap_Font" TextSpace="0" Encoding="Default" FontId="Default" FontHeight="1" FontWidth="1" IsInverse="false" IsUTF8="true" IsCheckDigit="false" UsePrinterClock="true">
+        <qHitOnCircumferance>false</qHitOnCircumferance>
+        <Selected>false</Selected>
+        <iBackground_color>4294967295</iBackground_color>
+        <Id>2</Id>
+        <ItemLabel>Text_22589643</ItemLabel>
+        <ObjectDrawMode>FW</ObjectDrawMode>
+        <Name>A</Name>
+        <ReplaceInfoItems />
+        <FormatType>None</FormatType>
+        <P1 />
+        <P2 />
+        <P3 />
+        <P4 />
+        <DataField>None</DataField>
+        <Prompt>None</Prompt>
+        <BoundRectWidth>124.7168</BoundRectWidth>
+        <DispData>MfgDate</DispData>
+        <bRemovePreZeroAndEmpty>false</bRemovePreZeroAndEmpty>
+        <Data>MfgDate</Data>
+        <BoundRectHeight>36.8671875</BoundRectHeight>
+        <BoundRect>
+          <Location>
+            <X>237</X>
+            <Y>6</Y>
+          </Location>
+          <Size>
+            <Width>124.7168</Width>
+            <Height>36.8671875</Height>
+          </Size>
+          <X>237</X>
+          <Y>6</Y>
+          <Width>124.7168</Width>
+          <Height>36.8671875</Height>
+        </BoundRect>
+        <BTrueType>true</BTrueType>
+      </GraphicShape>
+      <GraphicShape xsi:type="BarCode" Style="Cross" IsPrint="true" PageAlignment="None" Locked="false" bStroke="true" bFill="true" Direction="Angle0" X="16" Y="90" Alignment="Left" AlignPointX="16" AlignPointY="90" FontScript="Default" FontCmd="Arial,12&#xD;&#xA;" Symbology="Code11" CaptionAlignment="BottomAndLeft" Height="34" Width="7" Narrow="3" BearerBarStyle="3" BearerBarWidth="5" QuietZoneWidth="9" Offset="1" bDisplayChecksum="false" bDisplayStartStopChar="false" bBuiltinFont="true" Code128Subset="Auto">
+        <qHitOnCircumferance>false</qHitOnCircumferance>
+        <Selected>false</Selected>
+        <iBackground_color>4294967295</iBackground_color>
+        <Id>3</Id>
+        <ItemLabel>BarCode_3</ItemLabel>
+        <ObjectDrawMode>FW</ObjectDrawMode>
+        <Name>B</Name>
+        <ReplaceInfoItems />
+        <FormatType>None</FormatType>
+        <P1 />
+        <P2 />
+        <P3 />
+        <P4 />
+        <DataField>None</DataField>
+        <Prompt>None</Prompt>
+        <BoundRectWidth>175</BoundRectWidth>
+        <DispData>1234</DispData>
+        <bRemovePreZeroAndEmpty>false</bRemovePreZeroAndEmpty>
+        <Data>1234</Data>
+        <BoundRectHeight>61</BoundRectHeight>
+        <BoundRect>
+          <Location>
+            <X>16</X>
+            <Y>90</Y>
+          </Location>
+          <Size>
+            <Width>175</Width>
+            <Height>61</Height>
+          </Size>
+          <X>16</X>
+          <Y>90</Y>
+          <Width>175</Width>
+          <Height>61</Height>
+        </BoundRect>
+        <CheckDigitType>MOD_43</CheckDigitType>
+        <Use_ITF_T2>false</Use_ITF_T2>
+        <CustomizeGuardBar>false</CustomizeGuardBar>
+        <GuardBarHeight>0</GuardBarHeight>
+      </GraphicShape>
+      <GraphicShape xsi:type="Text" Style="Cross" IsPrint="true" PageAlignment="None" Locked="false" bStroke="true" bFill="true" Direction="Angle0" X="21" Y="35" Alignment="Left" AlignPointX="21" AlignPointY="35" FontScript="Default" FontCmd="Microsoft Sans Serif,18&#xD;&#xA;" FontType="BuiltIn_Bitmap_Font" TextSpace="0" Encoding="Default" FontId="Default" FontHeight="1" FontWidth="1" IsInverse="false" IsUTF8="true" IsCheckDigit="false" UsePrinterClock="true">
+        <qHitOnCircumferance>false</qHitOnCircumferance>
+        <Selected>false</Selected>
+        <iBackground_color>4294967295</iBackground_color>
+        <Id>2</Id>
+        <ItemLabel>Text_2</ItemLabel>
+        <ObjectDrawMode>FW</ObjectDrawMode>
+        <Name>A</Name>
+        <ReplaceInfoItems />
+        <FormatType>None</FormatType>
+        <P1 />
+        <P2 />
+        <P3 />
+        <P4 />
+        <DataField>None</DataField>
+        <Prompt>None</Prompt>
+        <BoundRectWidth>141.23291</BoundRectWidth>
+        <DispData>Company</DispData>
+        <bRemovePreZeroAndEmpty>false</bRemovePreZeroAndEmpty>
+        <Data>Company</Data>
+        <BoundRectHeight>36.8671875</BoundRectHeight>
+        <BoundRect>
+          <Location>
+            <X>21</X>
+            <Y>35</Y>
+          </Location>
+          <Size>
+            <Width>141.23291</Width>
+            <Height>36.8671875</Height>
+          </Size>
+          <X>21</X>
+          <Y>35</Y>
+          <Width>141.23291</Width>
+          <Height>36.8671875</Height>
+        </BoundRect>
+        <BTrueType>true</BTrueType>
+      </GraphicShape>
+      <GraphicShape xsi:type="Text" Style="Cross" IsPrint="true" PageAlignment="None" Locked="false" bStroke="true" bFill="true" Direction="Angle0" X="21" Y="2" Alignment="Left" AlignPointX="21" AlignPointY="2" FontScript="Default" FontCmd="Microsoft Sans Serif,18&#xD;&#xA;" FontType="BuiltIn_Bitmap_Font" TextSpace="0" Encoding="Default" FontId="Default" FontHeight="1" FontWidth="1" IsInverse="false" IsUTF8="true" IsCheckDigit="false" UsePrinterClock="true">
+        <qHitOnCircumferance>false</qHitOnCircumferance>
+        <Selected>false</Selected>
+        <iBackground_color>4294967295</iBackground_color>
+        <Id>2</Id>
+        <ItemLabel>Text_22527293</ItemLabel>
+        <ObjectDrawMode>FW</ObjectDrawMode>
+        <Name>A</Name>
+        <ReplaceInfoItems />
+        <FormatType>None</FormatType>
+        <P1 />
+        <P2 />
+        <P3 />
+        <P4 />
+        <DataField>None</DataField>
+        <Prompt>None</Prompt>
+        <BoundRectWidth>152.222168</BoundRectWidth>
+        <DispData>MedName</DispData>
+        <bRemovePreZeroAndEmpty>false</bRemovePreZeroAndEmpty>
+        <Data>MedName</Data>
+        <BoundRectHeight>36.8671875</BoundRectHeight>
+        <BoundRect>
+          <Location>
+            <X>21</X>
+            <Y>2</Y>
+          </Location>
+          <Size>
+            <Width>152.222168</Width>
+            <Height>36.8671875</Height>
+          </Size>
+          <X>21</X>
+          <Y>2</Y>
+          <Width>152.222168</Width>
+          <Height>36.8671875</Height>
+        </BoundRect>
+        <BTrueType>true</BTrueType>
+      </GraphicShape>
+    </qlabel>
+    <VariableOpFormat />
+    <VariableOption />
+    <DateFormat>y2-me-dd</DateFormat>
+    <TimeFormat>h:m:s</TimeFormat>
+    <DataBaseFormat>None</DataBaseFormat>
+    <DataBaseFilePath />
+    <DataBaseSelection />
+    <UserID />
+    <Password>zhsTbm6nT9o+RQurpwH5Hw==</Password>
+    <EncryptPwd>true</EncryptPwd>
+    <IntegratedSecurity>false</IntegratedSecurity>
+    <RowIndex>0</RowIndex>
+  </Label>
+  <Setup bInfinityPrint="false" LabelLength="20" LabelWidth="50" LeftMargin="0" TopMargin="0" LabelType="0" GapLength="3" FeedLength="0" ZSign="45" BlackMark="0" Position="0" Speed="4" Copy="1" bCopyDataBase="false" CopyField="None" Stripper="0" LabelsPerCut="0" Rotate180="255" Stop="18" Darkness="8" Number="1" bBatchCut="false" bNumberDataBase="false" NumberField="None" PageDirection="Portrait" PrintMode="1" PowerRFID="0" LengthRFID="-1" RetryRFID="1" DrawMode="0">
+    <Layout Shape="0" AcrossType="Copied" PageDirection="Portrait" HorAcross="1" VerAcross="1" HorGap="0" VerGap="0" HorAcrossMode1="1" VerAcrossMode1="1" LabelMode="1" HorGapMode1="0" VerGapMode1="0" BottomMargin="0" RightMargin="0" />
+    <Description>new
+Lang:(en-US) OS:Microsoft Windows NT 6.2.9200.0(Win32NT)</Description>
+    <UnitType>Mm</UnitType>
+    <Dpi>203</Dpi>
+  </Setup>
+  <DriverName />
+  <PrinterModel>G500</PrinterModel>
+  <PrinterLanguage>EZPL</PrinterLanguage>
+  <USBName>GODEX G500#19450D52</USBName>
+  <COMName />
+  <CommunicationType>USB</CommunicationType>
+  <NetworkIPAddress>0</NetworkIPAddress>
+  <NetworkPort>9100</NetworkPort>
+  <BaudRate>9600</BaudRate>
+  <ComSettings>N81</ComSettings>
+  <StandaloneDbSearchKey />
+  <StandaloneDbEnable>false</StandaloneDbEnable>
+</PrintJob>

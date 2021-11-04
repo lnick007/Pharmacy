@@ -1,0 +1,52 @@
+string prn1 = @"
+^Q20,3
+^W50
+^H8
+^P1
+^S4
+^AD
+^C1
+^R0
+~Q+0
+^O0
+^D0
+^E18
+~R255
+^L
+Dy2-me-dd
+Th:m:s
+AD,126,2,1,1,0,0E,";
+            string medname = txtmedicinename.Text;
+            string prn2 = @"
+AD,82,28,1,1,0,0E,";
+            string compname = txtcompanyname.Text;
+            string prn3 = @"
+B050,16,72,3,8,52,0,1,1,";
+            string medid = txtmedicineid.Text;
+            string mfgdate = txtmfgdate.Text;
+            string barcode = (medid + mfgdate).PadLeft(11, '0');
+            string prn4 = @"
+AD,234,68,1,1,0,0E,";
+            string prn5 = @"
+AD,238,106,1,1,0,0E,";
+            string expdate = txtexpdate.Text;
+            string prn6 = @"
+E";
+
+            string finalprn = prn1 + medname + prn2 + compname + prn3 + barcode + prn4 + mfgdate + prn5 + expdate + prn6;
+
+
+            int qty = int.Parse(txtquantity.Text);
+            for (int i = 1; i <= qty; i++)
+            {
+                StreamWriter sw = new StreamWriter("C:\\Users\\ARS\\Documents\\PHARMACY_MANAGEMENT\\barcode_prn.txt");
+                sw.Write(finalprn);
+                sw.Close();
+            }
+
+
+
+            Process process1 = new Process();
+            process1.StartInfo.FileName = "cmd.exe";
+            process1.StartInfo.Arguments = "/C Type C:\\Users\\ARS\\Documents\\PHARMACY_MANAGEMENT\\barcode_prn.txt>\\\\DESKTOP-K7B584I\\Godex";
+            Process proc = Process.Start(process1.StartInfo);
